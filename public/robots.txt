@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://init-ikuya.github.io/ai-driven-psd-layer-combiner/sitemap.xml
